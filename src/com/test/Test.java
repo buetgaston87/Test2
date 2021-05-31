@@ -10,7 +10,9 @@ public class Test {
 		String value = "valor de la variables";
 		int numero = 2;
 		System.err.println(numero + value);
-		
+		String otro = "sdsdsds";
+		System.out.println(otro);
+		//nuevo valor
 	}
 
 }
