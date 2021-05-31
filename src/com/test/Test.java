@@ -6,6 +6,10 @@ public class Test {
 		// TODO Auto-generated method stub
 		String name = "Gaby";
 		System.out.println(name);
+		//El comentario supremo
+		String value = "valor de la variables";
+		int numero = 2;
+		System.err.println(numero + value);
 	}
 
 }
